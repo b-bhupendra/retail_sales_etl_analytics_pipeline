@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Mode,Segment,Country,City,State,Region,Category,Sub-Category,Product ID,Cost Price,List Price,Quantity,Discount Percent
+CA-2025-1001,2025-08-03,First Class,Home Office,United States,Phoenix,Texas,South,Technology,Machines,PROD-TEC-101,303.34,392.4,8,10
+CA-2025-1002,2025-07-11,Same Day,Consumer,United States,New York City,Texas,West,Technology,Accessories,PROD-TEC-102,485.26,824.68,5,5
+CA-2025-1003,2026-04-21,Same Day,Home Office,United States,Chicago,Texas,Central,Office Supplies,Fasteners,PROD-OFF-103,152.7,239.3,9,5
+CA-2025-1004,2026-01-23,Standard Class,Corporate,United States,Los Angeles,California,East,Furniture,Bookcases,PROD-FUR-104,307.7,400.72,5,5
+CA-2025-1005,2026-05-24,Same Day,Home Office,United States,Chicago,New York,South,Office Supplies,Fasteners,PROD-OFF-105,345.27,505.51,2,15
+CA-2025-1006,2026-04-22,First Class,Corporate,United States,Los Angeles,Texas,West,Office Supplies,Art,PROD-OFF-106,218.33,289.24,2,15
+CA-2025-1007,2025-12-04,First Class,Consumer,United States,Los Angeles,New York,South,Office Supplies,Art,PROD-OFF-107,289.52,437.9,8,20
+CA-2025-1008,2026-04-17,First Class,Home Office,United States,Chicago,New York,South,Furniture,Chairs,PROD-FUR-108,17.66,25.68,1,0
+CA-2025-1009,2025-02-10,Same Day,Home Office,United States,New York City,Texas,West,Technology,Copiers,PROD-TEC-109,306.92,538.88,1,5
+CA-2025-1010,2026-04-07,First Class,Consumer,United States,Phoenix,California,Central,Furniture,Furnishings,PROD-FUR-110,162.38,226.54,7,10
+CA-2025-1011,2026-04-06,First Class,Home Office,United States,New York City,Texas,East,Technology,Accessories,PROD-TEC-111,29.81,48.48,7,5
+CA-2025-1012,2025-02-05,Standard Class,Home Office,United States,Chicago,Illinois,West,Office Supplies,Fasteners,PROD-OFF-112,306.16,466.56,7,20
+CA-2025-1013,2025-12-06,Second Class,Corporate,United States,Chicago,California,Central,Office Supplies,Paper,PROD-OFF-113,61.69,90.93,9,15
+CA-2025-1014,2025-09-16,First Class,Corporate,United States,Chicago,New York,West,Furniture,Bookcases,PROD-FUR-114,143.34,227.71,1,0
+CA-2025-1015,2026-01-09,Same Day,Consumer,United States,Houston,New York,West,Furniture,Chairs,PROD-FUR-115,142.01,191.21,3,10
+CA-2025-1016,2025-04-23,Standard Class,Consumer,United States,New York City,Illinois,East,Furniture,Tables,PROD-FUR-116,130.97,211.88,4,10
+CA-2025-1017,2026-02-07,Second Class,Corporate,United States,Phoenix,Texas,West,Office Supplies,Paper,PROD-OFF-117,26.19,36.85,6,0
+CA-2025-1018,2025-07-17,Second Class,Home Office,United States,New York City,New York,South,Office Supplies,Art,PROD-OFF-118,383.19,514.46,7,20
+CA-2025-1019,2025-12-12,First Class,Home Office,United States,Chicago,Texas,South,Technology,Accessories,PROD-TEC-119,299.54,481.22,3,10
+CA-2025-1020,2026-04-18,Second Class,Home Office,United States,Los Angeles,Illinois,Central,Technology,Machines,PROD-TEC-120,348.56,499.15,9,5
+CA-2025-1021,2026-03-29,Standard Class,Home Office,United States,New York City,New York,Central,Office Supplies,Storage,PROD-OFF-121,269.53,362.55,4,15
+CA-2025-1022,2026-02-24,Second Class,Corporate,United States,Chicago,New York,Central,Technology,Machines,PROD-TEC-122,429.6,619.79,3,0
+CA-2025-1023,2025-06-10,Same Day,Consumer,United States,Phoenix,Texas,South,Furniture,Chairs,PROD-FUR-123,88.8,135.8,2,10
+CA-2025-1024,2026-04-15,First Class,Corporate,United States,Phoenix,Illinois,West,Technology,Copiers,PROD-TEC-124,160.95,245.53,1,10
+CA-2025-1025,2026-03-29,Same Day,Consumer,United States,Chicago,Texas,Central,Technology,Copiers,PROD-TEC-125,181.54,288.12,2,0
+CA-2025-1026,2026-06-02,First Class,Consumer,United States,Phoenix,Arizona,East,Furniture,Furnishings,PROD-FUR-126,497.33,737.03,1,20
+CA-2025-1027,2025-06-10,Same Day,Home Office,United States,Los Angeles,New York,West,Office Supplies,Fasteners,PROD-OFF-127,490.36,610.6,3,20
+CA-2025-1028,2025-06-04,Second Class,Corporate,United States,Los Angeles,New York,South,Technology,Accessories,PROD-TEC-128,289.33,364.07,3,5
+CA-2025-1029,2026-02-12,Standard Class,Corporate,United States,New York City,Texas,East,Furniture,Chairs,PROD-FUR-129,186.15,256.17,6,5
+CA-2025-1030,2025-02-20,Standard Class,Corporate,United States,Phoenix,California,West,Furniture,Furnishings,PROD-FUR-130,175.62,250.32,3,5
+CA-2025-1031,2026-03-20,Standard Class,Consumer,United States,Phoenix,Texas,South,Office Supplies,Storage,PROD-OFF-131,29.03,40.12,4,10
+CA-2025-1032,2025-09-26,Second Class,Corporate,United States,Chicago,New York,South,Furniture,Bookcases,PROD-FUR-132,422.59,556.39,4,10
+CA-2025-1033,2025-02-27,Second Class,Consumer,United States,Los Angeles,New York,South,Technology,Copiers,PROD-TEC-133,132.92,174.2,7,0
+CA-2025-1034,2025-09-04,First Class,Corporate,United States,Chicago,Arizona,West,Furniture,Chairs,PROD-FUR-134,477.88,785.03,1,20
+CA-2025-1035,2026-03-29,Same Day,Corporate,United States,Los Angeles,Arizona,Central,Furniture,Chairs,PROD-FUR-135,56.14,77.86,5,15
+CA-2025-1036,2025-04-10,Second Class,Home Office,United States,Los Angeles,California,Central,Furniture,Tables,PROD-FUR-136,205.27,322.17,5,20
+CA-2025-1037,2026-05-12,Same Day,Home Office,United States,Houston,Texas,West,Office Supplies,Storage,PROD-OFF-137,332.76,431.84,8,5
+CA-2025-1038,2025-09-25,First Class,Consumer,United States,New York City,California,Central,Technology,Machines,PROD-TEC-138,234.54,358.23,1,20
+CA-2025-1039,2025-03-31,Same Day,Consumer,United States,Los Angeles,California,West,Furniture,Chairs,PROD-FUR-139,29.09,45.7,2,0
+CA-2025-1040,2026-05-08,First Class,Consumer,United States,Houston,New York,East,Office Supplies,Paper,PROD-OFF-140,148.11,188.23,3,20
+CA-2025-1041,2025-04-09,Same Day,Corporate,United States,New York City,Arizona,South,Furniture,Chairs,PROD-FUR-141,96.95,160.0,4,10
+CA-2025-1042,2025-03-03,Same Day,Consumer,United States,Phoenix,Illinois,Central,Furniture,Bookcases,PROD-FUR-142,379.73,479.17,7,0
+CA-2025-1043,2026-01-19,Same Day,Home Office,United States,Los Angeles,Arizona,East,Furniture,Furnishings,PROD-FUR-143,425.1,600.64,9,15
+CA-2025-1044,2025-05-31,Same Day,Consumer,United States,Phoenix,Arizona,West,Technology,Machines,PROD-TEC-144,281.31,373.48,9,20
+CA-2025-1045,2025-01-09,Second Class,Corporate,United States,Houston,New York,East,Office Supplies,Paper,PROD-OFF-145,371.15,566.95,5,10
+CA-2025-1046,2025-07-13,Standard Class,Consumer,United States,Phoenix,Illinois,South,Office Supplies,Fasteners,PROD-OFF-146,45.65,77.29,8,5
+CA-2025-1047,2025-10-28,Same Day,Corporate,United States,Houston,Illinois,East,Furniture,Chairs,PROD-FUR-147,408.27,721.96,6,0
+CA-2025-1048,2025-08-08,Second Class,Corporate,United States,Houston,Texas,South,Office Supplies,Binders,PROD-OFF-148,64.49,96.45,3,20
+CA-2025-1049,2025-07-09,Standard Class,Home Office,United States,Houston,New York,East,Furniture,Bookcases,PROD-FUR-149,374.66,602.69,9,15
+CA-2025-1050,2025-05-29,Same Day,Corporate,United States,Phoenix,Illinois,South,Furniture,Tables,PROD-FUR-150,481.98,581.89,5,20
+CA-2025-1051,2025-11-01,Second Class,Home Office,United States,New York City,Arizona,West,Furniture,Furnishings,PROD-FUR-151,350.75,436.78,3,0
+CA-2025-1052,2026-02-12,Same Day,Consumer,United States,Los Angeles,Texas,South,Office Supplies,Binders,PROD-OFF-152,32.27,44.16,7,15
+CA-2025-1053,2026-05-17,First Class,Consumer,United States,New York City,New York,East,Office Supplies,Paper,PROD-OFF-153,140.31,198.71,2,15
+CA-2025-1054,2026-03-26,Second Class,Corporate,United States,Los Angeles,Illinois,East,Furniture,Furnishings,PROD-FUR-154,413.04,731.03,3,20
+CA-2025-1055,2025-10-09,First Class,Consumer,United States,Chicago,Illinois,East,Furniture,Bookcases,PROD-FUR-155,194.47,327.94,8,0
+CA-2025-1056,2026-06-02,Same Day,Consumer,United States,Phoenix,Arizona,West,Furniture,Chairs,PROD-FUR-156,28.04,35.9,2,20
+CA-2025-1057,2025-03-24,Standard Class,Consumer,United States,New York City,New York,Central,Technology,Phones,PROD-TEC-157,386.8,683.42,7,5
+CA-2025-1058,2025-12-14,First Class,Home Office,United States,Los Angeles,California,West,Furniture,Chairs,PROD-FUR-158,122.03,195.62,4,5
+CA-2025-1059,2026-02-05,Same Day,Home Office,United States,Phoenix,Arizona,West,Office Supplies,Binders,PROD-OFF-159,427.57,654.67,2,20
+CA-2025-1060,2025-11-02,Second Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Binders,PROD-OFF-160,452.54,710.65,3,5
+CA-2025-1061,2026-06-26,First Class,Corporate,United States,Chicago,New York,East,Office Supplies,Art,PROD-OFF-161,261.85,437.34,9,15
+CA-2025-1062,2025-03-10,Second Class,Corporate,United States,Phoenix,California,East,Furniture,Furnishings,PROD-FUR-162,422.62,702.12,8,15
+CA-2025-1063,2026-01-09,Same Day,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Binders,PROD-OFF-163,273.26,403.35,3,10
+CA-2025-1064,2025-01-05,Second Class,Corporate,United States,Phoenix,Arizona,West,Furniture,Furnishings,PROD-FUR-164,304.95,406.9,2,20
+CA-2025-1065,2025-03-19,Second Class,Consumer,United States,Chicago,New York,West,Furniture,Chairs,PROD-FUR-165,184.44,320.29,9,0
+CA-2025-1066,2025-02-17,Standard Class,Consumer,United States,Los Angeles,Texas,East,Furniture,Bookcases,PROD-FUR-166,347.01,522.94,9,10
+CA-2025-1067,2025-01-28,First Class,Corporate,United States,Los Angeles,Arizona,West,Furniture,Bookcases,PROD-FUR-167,112.58,160.12,4,5
+CA-2025-1068,2026-05-23,Standard Class,Corporate,United States,Los Angeles,Illinois,Central,Office Supplies,Binders,PROD-OFF-168,75.23,121.29,8,10
+CA-2025-1069,2025-09-30,First Class,Corporate,United States,Los Angeles,Texas,East,Technology,Machines,PROD-TEC-169,371.33,486.21,9,0
+CA-2025-1070,2025-04-19,Second Class,Home Office,United States,Houston,California,Central,Furniture,Chairs,PROD-FUR-170,242.25,342.31,4,0
+CA-2025-1071,2025-10-09,Same Day,Corporate,United States,Chicago,Illinois,East,Furniture,Furnishings,PROD-FUR-171,195.6,274.32,3,15
+CA-2025-1072,2025-12-16,First Class,Corporate,United States,New York City,Illinois,Central,Office Supplies,Fasteners,PROD-OFF-172,126.24,159.2,9,15
+CA-2025-1073,2026-04-13,Same Day,Home Office,United States,Houston,New York,West,Technology,Machines,PROD-TEC-173,491.37,622.68,5,5
+CA-2025-1074,2026-03-11,Standard Class,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Binders,PROD-OFF-174,362.04,550.67,9,5
+CA-2025-1075,2025-05-19,First Class,Consumer,United States,Chicago,Illinois,East,Furniture,Furnishings,PROD-FUR-175,269.62,437.95,1,20
+CA-2025-1076,2025-01-13,Same Day,Corporate,United States,Houston,New York,Central,Office Supplies,Paper,PROD-OFF-176,75.86,93.92,8,15
+CA-2025-1077,2025-04-05,Standard Class,Consumer,United States,Houston,Texas,West,Furniture,Chairs,PROD-FUR-177,67.18,99.69,1,10
+CA-2025-1078,2026-05-28,Same Day,Corporate,United States,Houston,Arizona,South,Office Supplies,Fasteners,PROD-OFF-178,495.56,655.63,8,10
+CA-2025-1079,2025-06-14,Standard Class,Home Office,United States,Chicago,California,West,Technology,Phones,PROD-TEC-179,108.8,141.24,5,20
+CA-2025-1080,2026-02-26,Standard Class,Home Office,United States,New York City,New York,East,Furniture,Chairs,PROD-FUR-180,344.66,507.05,9,10
+CA-2025-1081,2025-02-08,First Class,Corporate,United States,Chicago,Illinois,South,Furniture,Bookcases,PROD-FUR-181,270.61,335.55,7,10
+CA-2025-1082,2025-06-06,Second Class,Consumer,United States,New York City,Arizona,East,Office Supplies,Art,PROD-OFF-182,271.4,471.24,1,15
+CA-2025-1083,2026-06-01,First Class,Corporate,United States,New York City,Arizona,Central,Technology,Copiers,PROD-TEC-183,26.43,40.75,1,5
+CA-2025-1084,2025-06-06,First Class,Consumer,United States,Los Angeles,Illinois,Central,Technology,Machines,PROD-TEC-184,305.94,459.33,8,20
+CA-2025-1085,2025-01-11,Second Class,Corporate,United States,Los Angeles,Illinois,South,Technology,Copiers,PROD-TEC-185,275.93,372.8,4,20
+CA-2025-1086,2026-04-05,Same Day,Consumer,United States,Phoenix,California,East,Office Supplies,Fasteners,PROD-OFF-186,257.89,404.08,8,15
+CA-2025-1087,2026-02-11,Standard Class,Corporate,United States,Phoenix,Arizona,West,Technology,Accessories,PROD-TEC-187,217.82,357.63,9,0
+CA-2025-1088,2026-03-07,Standard Class,Consumer,United States,New York City,California,South,Office Supplies,Art,PROD-OFF-188,420.37,588.22,6,10
+CA-2025-1089,2025-03-16,Second Class,Corporate,United States,Los Angeles,Illinois,West,Furniture,Chairs,PROD-FUR-189,65.99,95.6,9,5
+CA-2025-1090,2026-05-16,Same Day,Consumer,United States,New York City,Arizona,Central,Technology,Phones,PROD-TEC-190,131.63,203.58,3,15
+CA-2025-1091,2025-12-27,Standard Class,Corporate,United States,Houston,Arizona,South,Technology,Accessories,PROD-TEC-191,335.13,437.96,2,15
+CA-2025-1092,2025-11-14,Same Day,Corporate,United States,Phoenix,New York,East,Furniture,Bookcases,PROD-FUR-192,161.87,232.83,1,10
+CA-2025-1093,2025-06-24,Second Class,Corporate,United States,Houston,New York,West,Furniture,Tables,PROD-FUR-193,297.85,409.97,8,10
+CA-2025-1094,2026-04-03,First Class,Corporate,United States,Los Angeles,Texas,East,Office Supplies,Binders,PROD-OFF-194,99.14,170.23,4,10
+CA-2025-1095,2026-03-19,First Class,Consumer,United States,New York City,Arizona,Central,Technology,Copiers,PROD-TEC-195,434.83,628.24,2,0
+CA-2025-1096,2026-03-28,Same Day,Consumer,United States,Phoenix,California,Central,Technology,Phones,PROD-TEC-196,58.73,79.04,8,10
+CA-2025-1097,2025-10-12,Same Day,Corporate,United States,Los Angeles,New York,Central,Office Supplies,Storage,PROD-OFF-197,425.58,542.05,7,10
+CA-2025-1098,2025-09-18,Standard Class,Corporate,United States,New York City,California,East,Furniture,Furnishings,PROD-FUR-198,187.9,229.34,2,15
+CA-2025-1099,2025-05-08,Same Day,Consumer,United States,Los Angeles,Illinois,East,Technology,Machines,PROD-TEC-199,392.08,497.37,6,10
+CA-2025-1100,2025-10-05,First Class,Corporate,United States,Houston,California,West,Office Supplies,Storage,PROD-OFF-200,352.43,508.04,8,0
+CA-2025-1101,2025-05-08,Standard Class,Corporate,United States,Houston,New York,West,Furniture,Chairs,PROD-FUR-201,143.43,173.7,2,5
+CA-2025-1102,2025-12-08,Standard Class,Home Office,United States,New York City,Illinois,South,Office Supplies,Storage,PROD-OFF-202,329.2,558.93,5,20
+CA-2025-1103,2026-04-21,Second Class,Corporate,United States,Los Angeles,Texas,West,Office Supplies,Art,PROD-OFF-203,252.19,389.38,9,0
+CA-2025-1104,2025-05-29,First Class,Home Office,United States,Houston,New York,Central,Technology,Phones,PROD-TEC-204,54.27,90.23,3,20
+CA-2025-1105,2025-11-08,Standard Class,Corporate,United States,Houston,Texas,Central,Technology,Machines,PROD-TEC-205,475.16,683.28,3,20
+CA-2025-1106,2025-07-20,Second Class,Corporate,United States,Phoenix,New York,East,Technology,Machines,PROD-TEC-206,253.22,394.54,1,5
+CA-2025-1107,2025-02-08,First Class,Home Office,United States,Los Angeles,Arizona,South,Furniture,Chairs,PROD-FUR-207,355.41,554.07,9,0
+CA-2025-1108,2025-01-17,Second Class,Consumer,United States,New York City,Texas,West,Technology,Accessories,PROD-TEC-208,299.21,423.86,6,15
+CA-2025-1109,2026-04-11,Standard Class,Home Office,United States,Chicago,California,East,Technology,Machines,PROD-TEC-209,381.93,624.25,5,0
+CA-2025-1110,2026-01-26,Second Class,Home Office,United States,Phoenix,New York,Central,Furniture,Tables,PROD-FUR-210,499.68,766.25,7,5
+CA-2025-1111,2026-02-06,First Class,Corporate,United States,New York City,Illinois,South,Office Supplies,Binders,PROD-OFF-211,399.72,658.35,7,15
+CA-2025-1112,2025-02-08,First Class,Consumer,United States,Houston,Arizona,West,Furniture,Tables,PROD-FUR-212,351.18,493.03,3,15
+CA-2025-1113,2026-03-26,First Class,Home Office,United States,Los Angeles,California,West,Furniture,Chairs,PROD-FUR-213,264.88,385.69,2,15
+CA-2025-1114,2025-01-29,Second Class,Consumer,United States,Phoenix,Arizona,South,Technology,Copiers,PROD-TEC-214,470.14,789.49,2,15
+CA-2025-1115,2025-12-25,Same Day,Consumer,United States,New York City,New York,Central,Furniture,Furnishings,PROD-FUR-215,143.13,205.96,8,0
+CA-2025-1116,2026-03-08,Standard Class,Consumer,United States,New York City,New York,East,Furniture,Tables,PROD-FUR-216,150.75,207.7,8,20
+CA-2025-1117,2025-03-03,Standard Class,Corporate,United States,New York City,Texas,South,Technology,Accessories,PROD-TEC-217,395.31,495.58,5,10
+CA-2025-1118,2026-05-08,Second Class,Corporate,United States,Chicago,California,East,Technology,Machines,PROD-TEC-218,420.53,562.81,4,10
+CA-2025-1119,2025-02-23,First Class,Home Office,United States,New York City,New York,Central,Office Supplies,Storage,PROD-OFF-219,479.06,812.35,1,20
+CA-2025-1120,2025-06-09,First Class,Corporate,United States,Phoenix,Arizona,Central,Office Supplies,Storage,PROD-OFF-220,381.54,617.18,3,10
+CA-2025-1121,2025-11-19,First Class,Consumer,United States,New York City,Illinois,East,Furniture,Chairs,PROD-FUR-221,294.24,369.24,4,0
+CA-2025-1122,2025-08-14,Same Day,Home Office,United States,Chicago,Arizona,South,Office Supplies,Art,PROD-OFF-222,171.24,301.2,9,10
+CA-2025-1123,2025-04-24,Same Day,Consumer,United States,Phoenix,Illinois,West,Office Supplies,Paper,PROD-OFF-223,481.44,609.35,6,15
+CA-2025-1124,2025-10-16,Second Class,Home Office,United States,Houston,New York,Central,Technology,Machines,PROD-TEC-224,342.23,526.84,8,20
+CA-2025-1125,2025-06-19,Same Day,Home Office,United States,Chicago,Texas,Central,Technology,Machines,PROD-TEC-225,173.66,233.26,9,20
+CA-2025-1126,2025-12-29,Standard Class,Corporate,United States,Los Angeles,Texas,West,Furniture,Bookcases,PROD-FUR-226,24.33,41.25,9,5
+CA-2025-1127,2025-04-23,Standard Class,Consumer,United States,Los Angeles,Texas,South,Office Supplies,Fasteners,PROD-OFF-227,104.64,130.85,7,10
+CA-2025-1128,2025-08-12,Second Class,Home Office,United States,Houston,Texas,Central,Furniture,Bookcases,PROD-FUR-228,148.84,180.25,6,0
+CA-2025-1129,2025-11-20,First Class,Consumer,United States,Houston,New York,West,Office Supplies,Fasteners,PROD-OFF-229,469.24,756.76,6,5
+CA-2025-1130,2025-09-27,Same Day,Home Office,United States,Phoenix,Texas,South,Office Supplies,Storage,PROD-OFF-230,314.25,385.72,6,5
+CA-2025-1131,2025-02-02,Second Class,Home Office,United States,Chicago,Illinois,West,Technology,Copiers,PROD-TEC-231,381.55,463.49,4,10
+CA-2025-1132,2025-04-09,Standard Class,Consumer,United States,Phoenix,Arizona,Central,Technology,Accessories,PROD-TEC-232,144.08,259.1,2,0
+CA-2025-1133,2026-03-16,Same Day,Consumer,United States,Phoenix,Arizona,Central,Office Supplies,Art,PROD-OFF-233,74.35,127.94,6,15
+CA-2025-1134,2026-06-11,Second Class,Consumer,United States,Chicago,New York,East,Office Supplies,Binders,PROD-OFF-234,226.73,314.51,9,5
+CA-2025-1135,2025-11-05,Same Day,Home Office,United States,Chicago,California,South,Office Supplies,Art,PROD-OFF-235,88.03,116.4,8,20
+CA-2025-1136,2026-06-11,Standard Class,Corporate,United States,New York City,Texas,South,Technology,Copiers,PROD-TEC-236,456.8,813.34,5,15
+CA-2025-1137,2025-04-27,Second Class,Home Office,United States,Phoenix,New York,South,Furniture,Tables,PROD-FUR-237,88.8,141.27,9,20
+CA-2025-1138,2025-10-28,Standard Class,Consumer,United States,Houston,New York,South,Furniture,Tables,PROD-FUR-238,245.17,382.47,2,10
+CA-2025-1139,2025-02-15,Same Day,Home Office,United States,Houston,Texas,East,Technology,Accessories,PROD-TEC-239,61.42,82.62,3,0
+CA-2025-1140,2025-04-26,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Paper,PROD-OFF-240,263.68,330.32,1,20
+CA-2025-1141,2025-11-13,First Class,Home Office,United States,New York City,New York,Central,Office Supplies,Paper,PROD-OFF-241,30.18,48.36,2,10
+CA-2025-1142,2025-11-14,Same Day,Corporate,United States,Chicago,Illinois,South,Technology,Machines,PROD-TEC-242,357.44,615.72,9,5
+CA-2025-1143,2025-01-14,First Class,Corporate,United States,Houston,Texas,East,Office Supplies,Paper,PROD-OFF-243,231.64,367.42,6,0
+CA-2025-1144,2025-11-05,First Class,Home Office,United States,Houston,California,West,Furniture,Chairs,PROD-FUR-244,117.41,209.64,3,15
+CA-2025-1145,2025-02-04,Standard Class,Consumer,United States,New York City,Texas,East,Office Supplies,Binders,PROD-OFF-245,172.83,263.65,6,10
+CA-2025-1146,2026-01-17,Same Day,Corporate,United States,New York City,Illinois,South,Office Supplies,Fasteners,PROD-OFF-246,218.49,307.54,8,15
+CA-2025-1147,2025-10-22,Second Class,Home Office,United States,Chicago,California,West,Furniture,Furnishings,PROD-FUR-247,203.8,318.68,5,5
+CA-2025-1148,2026-06-04,Same Day,Corporate,United States,Los Angeles,Texas,West,Furniture,Furnishings,PROD-FUR-248,315.25,497.76,3,0
+CA-2025-1149,2025-11-14,Second Class,Consumer,United States,New York City,Texas,West,Office Supplies,Paper,PROD-OFF-249,212.39,263.68,7,0
+CA-2025-1150,2025-06-12,Standard Class,Consumer,United States,New York City,Texas,South,Technology,Accessories,PROD-TEC-250,201.63,359.23,1,5
+CA-2025-1151,2025-12-27,Standard Class,Consumer,United States,Houston,Illinois,South,Furniture,Bookcases,PROD-FUR-251,226.59,316.89,3,20
+CA-2025-1152,2025-07-23,Standard Class,Consumer,United States,New York City,Texas,South,Furniture,Chairs,PROD-FUR-252,92.13,112.58,6,20
+CA-2025-1153,2025-11-30,Second Class,Consumer,United States,Phoenix,Texas,West,Technology,Copiers,PROD-TEC-253,110.86,140.48,6,5
+CA-2025-1154,2025-06-10,Standard Class,Home Office,United States,Houston,California,South,Furniture,Chairs,PROD-FUR-254,120.1,157.09,7,10
+CA-2025-1155,2025-11-02,Standard Class,Consumer,United States,Chicago,California,Central,Furniture,Tables,PROD-FUR-255,346.12,418.95,8,0
+CA-2025-1156,2026-01-10,Same Day,Corporate,United States,Phoenix,New York,Central,Office Supplies,Art,PROD-OFF-256,24.69,34.19,7,5
+CA-2025-1157,2025-07-12,First Class,Home Office,United States,Los Angeles,Illinois,West,Furniture,Furnishings,PROD-FUR-257,435.39,568.75,6,5
+CA-2025-1158,2025-12-11,Second Class,Consumer,United States,New York City,Illinois,Central,Office Supplies,Paper,PROD-OFF-258,312.75,538.35,2,0
+CA-2025-1159,2025-06-10,Standard Class,Consumer,United States,Phoenix,New York,East,Office Supplies,Fasteners,PROD-OFF-259,292.82,412.63,5,5
+CA-2025-1160,2025-01-19,Second Class,Corporate,United States,Los Angeles,Arizona,East,Furniture,Bookcases,PROD-FUR-260,63.46,100.92,9,15
+CA-2025-1161,2025-03-06,Same Day,Corporate,United States,Phoenix,Illinois,South,Technology,Copiers,PROD-TEC-261,68.9,105.19,1,0
+CA-2025-1162,2025-04-12,Second Class,Home Office,United States,Chicago,California,West,Furniture,Chairs,PROD-FUR-262,126.4,179.99,1,15
+CA-2025-1163,2026-03-30,Same Day,Consumer,United States,Phoenix,California,East,Office Supplies,Storage,PROD-OFF-263,275.76,488.34,3,5
+CA-2025-1164,2025-12-09,Second Class,Corporate,United States,Los Angeles,Texas,Central,Furniture,Tables,PROD-FUR-264,130.57,194.03,5,10
+CA-2025-1165,2025-05-04,First Class,Consumer,United States,Houston,Illinois,Central,Technology,Phones,PROD-TEC-265,105.93,127.6,5,20
+CA-2025-1166,2026-01-08,Same Day,Corporate,United States,Chicago,Arizona,Central,Technology,Machines,PROD-TEC-266,244.8,322.34,5,20
+CA-2025-1167,2025-03-31,Standard Class,Corporate,United States,Chicago,Texas,West,Technology,Machines,PROD-TEC-267,361.64,520.74,4,20
+CA-2025-1168,2025-10-25,Same Day,Corporate,United States,New York City,Texas,South,Technology,Phones,PROD-TEC-268,154.69,259.27,7,20
+CA-2025-1169,2025-01-26,Standard Class,Home Office,United States,Los Angeles,California,East,Furniture,Tables,PROD-FUR-269,322.61,486.85,7,15
+CA-2025-1170,2025-10-20,Same Day,Corporate,United States,Chicago,Texas,South,Furniture,Tables,PROD-FUR-270,387.27,594.07,8,10
+CA-2025-1171,2026-03-15,Second Class,Consumer,United States,New York City,Illinois,South,Technology,Accessories,PROD-TEC-271,56.81,89.44,9,0
+CA-2025-1172,2026-02-23,Same Day,Home Office,United States,Chicago,California,East,Office Supplies,Storage,PROD-OFF-272,272.33,355.95,7,20
+CA-2025-1173,2025-09-20,Standard Class,Corporate,United States,Chicago,California,West,Office Supplies,Fasteners,PROD-OFF-273,253.42,454.3,9,10
+CA-2025-1174,2025-10-29,First Class,Corporate,United States,Los Angeles,Arizona,West,Furniture,Bookcases,PROD-FUR-274,349.29,626.89,9,15
+CA-2025-1175,2025-03-11,Standard Class,Home Office,United States,Houston,Arizona,East,Furniture,Chairs,PROD-FUR-275,104.01,144.99,4,10
+CA-2025-1176,2025-03-08,Second Class,Consumer,United States,Los Angeles,Illinois,West,Office Supplies,Art,PROD-OFF-276,44.27,70.13,5,5
+CA-2025-1177,2025-12-20,First Class,Corporate,United States,Houston,Texas,West,Office Supplies,Paper,PROD-OFF-277,195.45,277.1,7,10
+CA-2025-1178,2025-02-24,Same Day,Consumer,United States,Houston,Texas,Central,Furniture,Chairs,PROD-FUR-278,93.53,135.22,9,0
+CA-2025-1179,2025-09-05,Same Day,Consumer,United States,New York City,Arizona,South,Office Supplies,Fasteners,PROD-OFF-279,205.66,265.6,7,20
+CA-2025-1180,2026-05-15,Second Class,Consumer,United States,Houston,New York,Central,Office Supplies,Paper,PROD-OFF-280,380.08,485.22,8,15
+CA-2025-1181,2026-03-25,First Class,Home Office,United States,Houston,California,South,Office Supplies,Fasteners,PROD-OFF-281,196.65,276.84,2,0
+CA-2025-1182,2025-09-01,Second Class,Home Office,United States,New York City,California,West,Office Supplies,Binders,PROD-OFF-282,253.51,455.13,6,20
+CA-2025-1183,2025-01-07,Same Day,Corporate,United States,New York City,Arizona,Central,Office Supplies,Fasteners,PROD-OFF-283,340.41,517.25,3,10
+CA-2025-1184,2025-09-23,Standard Class,Corporate,United States,New York City,Arizona,West,Office Supplies,Binders,PROD-OFF-284,119.57,212.16,2,5
+CA-2025-1185,2026-03-12,First Class,Home Office,United States,New York City,New York,East,Furniture,Furnishings,PROD-FUR-285,307.06,509.38,1,20
+CA-2025-1186,2025-06-22,Same Day,Consumer,United States,Houston,California,East,Furniture,Tables,PROD-FUR-286,244.33,367.39,8,15
+CA-2025-1187,2026-06-01,First Class,Corporate,United States,Los Angeles,New York,West,Technology,Accessories,PROD-TEC-287,328.6,424.29,2,10
+CA-2025-1188,2025-03-24,Standard Class,Home Office,United States,Phoenix,New York,South,Office Supplies,Binders,PROD-OFF-288,38.31,61.95,2,0
+CA-2025-1189,2025-04-11,First Class,Consumer,United States,Houston,Texas,South,Office Supplies,Binders,PROD-OFF-289,349.16,432.04,7,15
+CA-2025-1190,2026-04-28,First Class,Home Office,United States,Houston,Arizona,East,Office Supplies,Paper,PROD-OFF-290,444.44,653.27,5,20
+CA-2025-1191,2026-04-16,Second Class,Home Office,United States,Phoenix,New York,East,Office Supplies,Fasteners,PROD-OFF-291,213.92,318.49,7,20
+CA-2025-1192,2025-06-22,Same Day,Consumer,United States,Chicago,New York,South,Furniture,Tables,PROD-FUR-292,318.36,420.02,2,20
+CA-2025-1193,2026-05-25,Same Day,Corporate,United States,Houston,Texas,West,Technology,Copiers,PROD-TEC-293,423.73,533.41,5,5
+CA-2025-1194,2026-02-01,Standard Class,Consumer,United States,New York City,New York,East,Technology,Phones,PROD-TEC-294,431.19,618.95,4,5
+CA-2025-1195,2025-08-20,Standard Class,Home Office,United States,Los Angeles,Illinois,West,Furniture,Tables,PROD-FUR-295,422.03,516.17,1,15
+CA-2025-1196,2026-02-20,Same Day,Consumer,United States,Phoenix,Arizona,South,Furniture,Bookcases,PROD-FUR-296,42.66,64.46,1,10
+CA-2025-1197,2025-05-28,Standard Class,Corporate,United States,Houston,Illinois,South,Furniture,Bookcases,PROD-FUR-297,45.32,56.32,1,0
+CA-2025-1198,2025-09-18,Standard Class,Corporate,United States,Los Angeles,Texas,East,Technology,Copiers,PROD-TEC-298,394.08,556.8,7,5
+CA-2025-1199,2026-01-17,Same Day,Corporate,United States,New York City,New York,East,Technology,Machines,PROD-TEC-299,316.09,451.74,8,5
+CA-2025-1200,2026-01-09,Standard Class,Consumer,United States,Houston,California,Central,Office Supplies,Paper,PROD-OFF-300,71.36,105.94,5,5
+CA-2025-1201,2025-05-04,Second Class,Consumer,United States,Los Angeles,Texas,West,Office Supplies,Storage,PROD-OFF-301,303.28,381.23,8,10
+CA-2025-1202,2025-05-02,Same Day,Corporate,United States,New York City,Texas,East,Furniture,Furnishings,PROD-FUR-302,444.59,705.78,3,10
+CA-2025-1203,2025-07-22,Same Day,Corporate,United States,Chicago,New York,West,Technology,Accessories,PROD-TEC-303,379.97,560.96,5,15
+CA-2025-1204,2025-10-10,Second Class,Home Office,United States,Chicago,Texas,East,Furniture,Chairs,PROD-FUR-304,62.89,101.33,2,15
+CA-2025-1205,2025-01-23,Standard Class,Corporate,United States,Houston,New York,South,Office Supplies,Binders,PROD-OFF-305,299.27,450.41,5,10
+CA-2025-1206,2025-09-18,First Class,Consumer,United States,Houston,Illinois,South,Furniture,Bookcases,PROD-FUR-306,236.16,284.71,8,0
+CA-2025-1207,2025-03-07,Standard Class,Consumer,United States,New York City,Texas,South,Office Supplies,Paper,PROD-OFF-307,281.99,462.42,9,10
+CA-2025-1208,2026-02-22,Standard Class,Consumer,United States,Houston,Illinois,South,Office Supplies,Paper,PROD-OFF-308,418.01,504.38,6,0
+CA-2025-1209,2025-05-12,First Class,Consumer,United States,Houston,Texas,West,Technology,Copiers,PROD-TEC-309,240.46,360.99,7,5
+CA-2025-1210,2025-07-21,Second Class,Corporate,United States,Houston,Texas,East,Office Supplies,Binders,PROD-OFF-310,334.89,402.25,5,20
+CA-2025-1211,2025-12-02,Second Class,Home Office,United States,Houston,Texas,South,Furniture,Furnishings,PROD-FUR-311,298.22,443.93,1,10
+CA-2025-1212,2025-11-15,Second Class,Home Office,United States,Phoenix,Texas,West,Office Supplies,Paper,PROD-OFF-312,305.05,370.26,2,10
+CA-2025-1213,2025-12-16,First Class,Consumer,United States,New York City,California,Central,Office Supplies,Fasteners,PROD-OFF-313,263.46,385.74,4,15
+CA-2025-1214,2025-07-17,Same Day,Home Office,United States,Chicago,Texas,Central,Furniture,Bookcases,PROD-FUR-314,467.23,740.81,9,0
+CA-2025-1215,2025-09-11,Second Class,Consumer,United States,New York City,Illinois,East,Technology,Phones,PROD-TEC-315,100.39,142.29,5,5
+CA-2025-1216,2025-12-15,Same Day,Consumer,United States,Houston,New York,East,Technology,Phones,PROD-TEC-316,137.06,199.81,3,10
+CA-2025-1217,2025-11-09,Same Day,Corporate,United States,New York City,Texas,South,Office Supplies,Fasteners,PROD-OFF-317,75.41,94.14,4,5
+CA-2025-1218,2026-02-18,Second Class,Home Office,United States,Chicago,Texas,West,Furniture,Bookcases,PROD-FUR-318,331.91,588.8,4,15
+CA-2025-1219,2025-08-16,Same Day,Home Office,United States,Houston,California,West,Office Supplies,Paper,PROD-OFF-319,390.59,484.03,9,20
+CA-2025-1220,2025-07-22,Same Day,Home Office,United States,Phoenix,California,West,Technology,Phones,PROD-TEC-320,270.89,391.89,5,5
+CA-2025-1221,2025-11-01,First Class,Home Office,United States,New York City,Arizona,South,Office Supplies,Storage,PROD-OFF-321,490.84,664.56,5,10
+CA-2025-1222,2025-11-23,Second Class,Home Office,United States,New York City,New York,South,Furniture,Chairs,PROD-FUR-322,20.8,33.95,9,5
+CA-2025-1223,2026-06-13,Second Class,Corporate,United States,Los Angeles,New York,West,Furniture,Chairs,PROD-FUR-323,207.95,317.23,2,0
+CA-2025-1224,2025-04-08,Same Day,Home Office,United States,Phoenix,Texas,South,Furniture,Chairs,PROD-FUR-324,335.45,446.03,2,5
+CA-2025-1225,2025-02-01,First Class,Consumer,United States,Houston,California,Central,Technology,Machines,PROD-TEC-325,405.14,597.8,6,10
+CA-2025-1226,2026-01-16,Standard Class,Corporate,United States,Houston,California,East,Office Supplies,Art,PROD-OFF-326,18.79,23.97,6,15
+CA-2025-1227,2025-04-07,Second Class,Home Office,United States,Houston,New York,Central,Technology,Accessories,PROD-TEC-327,56.13,78.93,9,15
+CA-2025-1228,2025-01-08,Same Day,Consumer,United States,Houston,Arizona,East,Office Supplies,Binders,PROD-OFF-328,226.13,297.9,3,15
+CA-2025-1229,2026-01-21,First Class,Home Office,United States,Phoenix,Illinois,Central,Technology,Phones,PROD-TEC-329,264.89,389.01,8,15
+CA-2025-1230,2025-09-17,Second Class,Corporate,United States,Chicago,New York,South,Office Supplies,Binders,PROD-OFF-330,258.46,402.9,8,20
+CA-2025-1231,2026-06-17,Second Class,Consumer,United States,Los Angeles,Texas,South,Technology,Accessories,PROD-TEC-331,483.89,701.96,7,20
+CA-2025-1232,2025-12-19,Same Day,Consumer,United States,Houston,California,West,Office Supplies,Paper,PROD-OFF-332,73.61,118.67,7,10
+CA-2025-1233,2026-05-01,Second Class,Corporate,United States,Chicago,Texas,South,Office Supplies,Fasteners,PROD-OFF-333,101.83,174.63,3,15
+CA-2025-1234,2025-08-14,Second Class,Home Office,United States,Houston,Texas,West,Furniture,Bookcases,PROD-FUR-334,412.6,608.82,2,20
+CA-2025-1235,2026-06-30,Standard Class,Home Office,United States,Los Angeles,California,Central,Office Supplies,Fasteners,PROD-OFF-335,52.72,86.01,8,10
+CA-2025-1236,2025-10-16,Same Day,Consumer,United States,Los Angeles,California,Central,Furniture,Bookcases,PROD-FUR-336,371.65,625.75,6,10
+CA-2025-1237,2026-05-31,Second Class,Consumer,United States,Phoenix,Illinois,East,Technology,Copiers,PROD-TEC-337,429.31,573.69,6,10
+CA-2025-1238,2025-07-26,Second Class,Home Office,United States,New York City,Illinois,Central,Furniture,Chairs,PROD-FUR-338,469.77,809.28,4,0
+CA-2025-1239,2026-05-16,Same Day,Corporate,United States,Chicago,Illinois,West,Technology,Copiers,PROD-TEC-339,229.06,338.14,2,15
+CA-2025-1240,2025-03-24,Second Class,Home Office,United States,Chicago,California,Central,Technology,Accessories,PROD-TEC-340,18.82,27.34,4,5
+CA-2025-1241,2026-01-10,Standard Class,Home Office,United States,Houston,Arizona,East,Furniture,Furnishings,PROD-FUR-341,491.08,772.37,4,0
+CA-2025-1242,2025-07-22,Standard Class,Home Office,United States,New York City,Illinois,West,Furniture,Tables,PROD-FUR-342,16.08,23.82,9,0
+CA-2025-1243,2025-05-07,First Class,Home Office,United States,Phoenix,New York,South,Office Supplies,Storage,PROD-OFF-343,41.6,71.82,4,5
+CA-2025-1244,2025-11-21,Same Day,Consumer,United States,Chicago,Texas,East,Office Supplies,Art,PROD-OFF-344,141.21,236.31,3,20
+CA-2025-1245,2026-04-27,Same Day,Consumer,United States,Phoenix,Texas,West,Furniture,Chairs,PROD-FUR-345,455.72,729.84,9,0
+CA-2025-1246,2026-05-20,Standard Class,Home Office,United States,Houston,Texas,South,Office Supplies,Storage,PROD-OFF-346,447.34,655.81,3,20
+CA-2025-1247,2025-12-13,First Class,Consumer,United States,New York City,New York,West,Office Supplies,Art,PROD-OFF-347,329.59,583.48,3,5
+CA-2025-1248,2025-12-28,Standard Class,Consumer,United States,Phoenix,Arizona,East,Furniture,Chairs,PROD-FUR-348,32.37,41.56,6,15
+CA-2025-1249,2025-02-18,Second Class,Consumer,United States,Chicago,Texas,South,Technology,Machines,PROD-TEC-349,229.26,340.35,3,0
+CA-2025-1250,2025-12-29,Second Class,Corporate,United States,New York City,New York,South,Furniture,Tables,PROD-FUR-350,403.27,622.34,7,5
+CA-2025-1251,2025-07-02,Standard Class,Home Office,United States,Phoenix,Illinois,West,Furniture,Chairs,PROD-FUR-351,410.92,624.17,9,10
+CA-2025-1252,2025-04-19,Same Day,Consumer,United States,New York City,Arizona,West,Technology,Copiers,PROD-TEC-352,201.04,329.29,1,20
+CA-2025-1253,2026-03-07,First Class,Consumer,United States,Houston,California,West,Technology,Machines,PROD-TEC-353,10.77,17.04,5,20
+CA-2025-1254,2026-02-16,Same Day,Consumer,United States,New York City,Texas,West,Office Supplies,Art,PROD-OFF-354,233.56,331.99,1,10
+CA-2025-1255,2025-07-21,Second Class,Home Office,United States,Chicago,Arizona,West,Technology,Copiers,PROD-TEC-355,471.45,754.86,9,0
+CA-2025-1256,2025-03-25,Second Class,Home Office,United States,Phoenix,California,East,Office Supplies,Paper,PROD-OFF-356,457.51,717.17,3,15
+CA-2025-1257,2026-02-23,First Class,Consumer,United States,Phoenix,California,East,Office Supplies,Binders,PROD-OFF-357,411.81,665.87,8,15
+CA-2025-1258,2025-10-21,Same Day,Consumer,United States,Chicago,California,South,Furniture,Tables,PROD-FUR-358,115.87,171.48,1,0
+CA-2025-1259,2025-12-30,Second Class,Home Office,United States,Chicago,Texas,South,Technology,Phones,PROD-TEC-359,275.84,473.63,7,15
+CA-2025-1260,2025-04-28,Same Day,Consumer,United States,Los Angeles,Texas,East,Technology,Phones,PROD-TEC-360,166.24,257.56,7,5
+CA-2025-1261,2025-07-21,Same Day,Corporate,United States,Houston,Illinois,Central,Technology,Machines,PROD-TEC-361,446.15,627.97,5,15
+CA-2025-1262,2026-03-16,Same Day,Corporate,United States,New York City,Texas,East,Technology,Copiers,PROD-TEC-362,59.62,101.85,1,5
+CA-2025-1263,2025-03-16,Standard Class,Corporate,United States,Chicago,Illinois,South,Furniture,Tables,PROD-FUR-363,121.96,217.88,5,10
+CA-2025-1264,2026-06-26,Second Class,Consumer,United States,Los Angeles,Arizona,East,Technology,Accessories,PROD-TEC-364,21.44,35.46,3,20
+CA-2025-1265,2025-07-20,Standard Class,Consumer,United States,Phoenix,Illinois,Central,Office Supplies,Art,PROD-OFF-365,242.26,355.27,5,5
+CA-2025-1266,2025-03-10,Standard Class,Consumer,United States,New York City,Arizona,West,Office Supplies,Art,PROD-OFF-366,198.9,279.3,1,15
+CA-2025-1267,2025-12-20,Same Day,Consumer,United States,Chicago,California,East,Furniture,Tables,PROD-FUR-367,418.49,612.78,5,5
+CA-2025-1268,2026-01-20,Same Day,Home Office,United States,Phoenix,Illinois,East,Furniture,Tables,PROD-FUR-368,483.54,742.05,5,10
+CA-2025-1269,2025-04-14,Second Class,Consumer,United States,Los Angeles,Illinois,East,Technology,Accessories,PROD-TEC-369,206.87,371.6,4,15
+CA-2025-1270,2025-03-05,First Class,Consumer,United States,Los Angeles,Illinois,West,Technology,Phones,PROD-TEC-370,29.34,43.58,8,15
+CA-2025-1271,2026-06-01,Standard Class,Consumer,United States,Los Angeles,Texas,West,Furniture,Bookcases,PROD-FUR-371,74.02,123.93,6,15
+CA-2025-1272,2025-08-16,Second Class,Home Office,United States,New York City,Illinois,Central,Furniture,Bookcases,PROD-FUR-372,261.32,328.27,3,15
+CA-2025-1273,2025-03-23,Same Day,Home Office,United States,Houston,Arizona,Central,Furniture,Bookcases,PROD-FUR-373,365.6,634.93,2,10
+CA-2025-1274,2025-05-27,First Class,Corporate,United States,Chicago,Illinois,East,Technology,Phones,PROD-TEC-374,428.44,627.02,8,0
+CA-2025-1275,2025-11-16,Second Class,Consumer,United States,Houston,California,East,Furniture,Bookcases,PROD-FUR-375,19.37,28.79,7,20
+CA-2025-1276,2025-09-21,Second Class,Consumer,United States,Chicago,New York,South,Technology,Machines,PROD-TEC-376,398.76,715.51,9,5
+CA-2025-1277,2025-07-07,Same Day,Consumer,United States,New York City,Texas,Central,Furniture,Chairs,PROD-FUR-377,43.82,52.73,1,20
+CA-2025-1278,2025-12-21,Same Day,Home Office,United States,Houston,Arizona,East,Office Supplies,Storage,PROD-OFF-378,48.05,69.41,2,10
+CA-2025-1279,2026-01-10,Second Class,Corporate,United States,Houston,Texas,West,Office Supplies,Fasteners,PROD-OFF-379,266.06,367.09,3,0
+CA-2025-1280,2025-08-03,Second Class,Corporate,United States,Chicago,Arizona,Central,Office Supplies,Paper,PROD-OFF-380,154.69,207.2,8,10
+CA-2025-1281,2026-06-17,First Class,Consumer,United States,Chicago,New York,East,Furniture,Bookcases,PROD-FUR-381,279.0,371.51,1,20
+CA-2025-1282,2026-04-29,Same Day,Corporate,United States,Houston,Texas,South,Office Supplies,Storage,PROD-OFF-382,256.51,376.97,7,5
+CA-2025-1283,2025-07-24,First Class,Home Office,United States,Los Angeles,Texas,Central,Office Supplies,Paper,PROD-OFF-383,158.57,217.87,4,15
+CA-2025-1284,2026-03-17,First Class,Consumer,United States,Los Angeles,Arizona,West,Technology,Accessories,PROD-TEC-384,75.58,119.25,2,10
+CA-2025-1285,2025-06-06,Same Day,Home Office,United States,New York City,New York,Central,Office Supplies,Storage,PROD-OFF-385,295.8,437.84,7,20
+CA-2025-1286,2025-05-21,First Class,Consumer,United States,Houston,Illinois,East,Technology,Phones,PROD-TEC-386,163.54,273.66,2,10
+CA-2025-1287,2025-06-24,First Class,Consumer,United States,Phoenix,Illinois,East,Furniture,Tables,PROD-FUR-387,251.97,360.97,7,10
+CA-2025-1288,2026-06-17,Same Day,Home Office,United States,Chicago,Texas,East,Furniture,Chairs,PROD-FUR-388,382.91,677.93,8,0
+CA-2025-1289,2025-12-21,First Class,Corporate,United States,Chicago,Texas,East,Office Supplies,Storage,PROD-OFF-389,254.3,363.92,5,0
+CA-2025-1290,2026-06-12,Standard Class,Consumer,United States,Chicago,New York,South,Technology,Phones,PROD-TEC-390,280.51,406.59,2,5
+CA-2025-1291,2025-10-01,First Class,Corporate,United States,Houston,Texas,East,Furniture,Bookcases,PROD-FUR-391,203.42,357.71,2,15
+CA-2025-1292,2025-11-09,Standard Class,Corporate,United States,Los Angeles,Arizona,South,Office Supplies,Storage,PROD-OFF-392,51.82,63.52,4,20
+CA-2025-1293,2026-02-02,Second Class,Home Office,United States,New York City,Illinois,Central,Technology,Phones,PROD-TEC-393,456.42,777.26,5,0
+CA-2025-1294,2026-01-13,Same Day,Corporate,United States,New York City,Texas,Central,Office Supplies,Storage,PROD-OFF-394,140.67,229.98,6,0
+CA-2025-1295,2025-06-24,Second Class,Consumer,United States,Los Angeles,Arizona,West,Technology,Phones,PROD-TEC-395,74.44,127.61,8,20
+CA-2025-1296,2025-01-12,Same Day,Home Office,United States,Phoenix,Texas,East,Technology,Machines,PROD-TEC-396,177.48,291.67,5,15
+CA-2025-1297,2026-05-19,Same Day,Consumer,United States,Chicago,Texas,South,Technology,Machines,PROD-TEC-397,21.56,37.5,3,0
+CA-2025-1298,2025-03-20,Same Day,Home Office,United States,Houston,California,South,Technology,Phones,PROD-TEC-398,469.32,733.07,9,20
+CA-2025-1299,2025-11-27,First Class,Corporate,United States,New York City,New York,Central,Office Supplies,Storage,PROD-OFF-399,394.74,708.48,7,5
+CA-2025-1300,2026-05-22,Standard Class,Home Office,United States,Chicago,Arizona,East,Office Supplies,Art,PROD-OFF-400,78.99,124.29,7,5
+CA-2025-1301,2025-06-08,Standard Class,Corporate,United States,Los Angeles,California,East,Technology,Copiers,PROD-TEC-401,179.14,313.58,1,15
+CA-2025-1302,2026-02-26,First Class,Corporate,United States,Phoenix,California,East,Office Supplies,Fasteners,PROD-OFF-402,319.15,468.7,4,0
+CA-2025-1303,2025-10-29,Standard Class,Home Office,United States,Chicago,Arizona,South,Office Supplies,Fasteners,PROD-OFF-403,144.6,243.53,6,5
+CA-2025-1304,2026-06-07,First Class,Corporate,United States,New York City,Texas,Central,Furniture,Bookcases,PROD-FUR-404,77.13,138.6,1,5
+CA-2025-1305,2025-01-19,First Class,Home Office,United States,Los Angeles,California,West,Technology,Accessories,PROD-TEC-405,117.37,173.17,9,5
+CA-2025-1306,2025-09-04,Same Day,Consumer,United States,Los Angeles,Texas,Central,Technology,Phones,PROD-TEC-406,352.17,506.11,2,5
+CA-2025-1307,2025-04-03,Second Class,Consumer,United States,Phoenix,California,South,Office Supplies,Storage,PROD-OFF-407,392.86,697.76,7,5
+CA-2025-1308,2026-04-01,Same Day,Home Office,United States,Phoenix,Illinois,East,Furniture,Furnishings,PROD-FUR-408,118.82,165.52,5,5
+CA-2025-1309,2026-06-30,First Class,Consumer,United States,New York City,Arizona,Central,Furniture,Bookcases,PROD-FUR-409,151.55,218.04,4,10
+CA-2025-1310,2025-12-25,First Class,Corporate,United States,New York City,California,East,Furniture,Bookcases,PROD-FUR-410,54.45,66.41,4,10
+CA-2025-1311,2025-02-27,Second Class,Consumer,United States,Houston,Texas,Central,Furniture,Furnishings,PROD-FUR-411,185.7,296.0,5,5
+CA-2025-1312,2025-10-05,Second Class,Consumer,United States,New York City,Arizona,South,Office Supplies,Binders,PROD-OFF-412,29.08,35.52,9,0
+CA-2025-1313,2026-02-07,Standard Class,Home Office,United States,Los Angeles,Arizona,East,Furniture,Furnishings,PROD-FUR-413,294.24,444.31,8,5
+CA-2025-1314,2025-04-19,Standard Class,Consumer,United States,Chicago,Texas,West,Office Supplies,Art,PROD-OFF-414,243.4,364.74,7,15
+CA-2025-1315,2026-01-02,Same Day,Home Office,United States,Phoenix,Texas,West,Furniture,Bookcases,PROD-FUR-415,154.67,267.22,4,0
+CA-2025-1316,2026-03-09,First Class,Consumer,United States,Houston,Arizona,East,Furniture,Furnishings,PROD-FUR-416,330.78,427.02,8,0
+CA-2025-1317,2025-11-22,Standard Class,Consumer,United States,Los Angeles,Arizona,East,Technology,Accessories,PROD-TEC-417,385.12,462.15,5,0
+CA-2025-1318,2025-02-07,First Class,Home Office,United States,Houston,New York,East,Technology,Machines,PROD-TEC-418,35.43,46.58,3,15
+CA-2025-1319,2025-07-25,Standard Class,Corporate,United States,Chicago,Texas,Central,Furniture,Bookcases,PROD-FUR-419,449.06,759.28,2,10
+CA-2025-1320,2025-07-21,Same Day,Home Office,United States,Los Angeles,New York,East,Office Supplies,Fasteners,PROD-OFF-420,299.41,478.04,6,10
+CA-2025-1321,2025-04-21,Standard Class,Home Office,United States,Phoenix,Arizona,West,Technology,Machines,PROD-TEC-421,140.01,218.55,6,15
+CA-2025-1322,2025-04-14,First Class,Home Office,United States,Chicago,New York,Central,Furniture,Chairs,PROD-FUR-422,94.32,168.22,9,5
+CA-2025-1323,2026-04-22,Standard Class,Consumer,United States,Houston,Texas,East,Technology,Accessories,PROD-TEC-423,426.73,600.31,7,5
+CA-2025-1324,2026-04-19,First Class,Corporate,United States,New York City,Illinois,Central,Technology,Phones,PROD-TEC-424,366.26,563.03,1,0
+CA-2025-1325,2025-11-11,Standard Class,Home Office,United States,New York City,New York,East,Technology,Machines,PROD-TEC-425,485.43,709.99,1,15
+CA-2025-1326,2025-08-28,Same Day,Corporate,United States,Chicago,Illinois,South,Technology,Phones,PROD-TEC-426,161.33,240.28,1,20
+CA-2025-1327,2026-01-11,Second Class,Home Office,United States,New York City,Arizona,South,Technology,Copiers,PROD-TEC-427,87.06,120.65,9,5
+CA-2025-1328,2025-06-28,Second Class,Consumer,United States,New York City,Texas,West,Technology,Accessories,PROD-TEC-428,468.3,800.98,8,10
+CA-2025-1329,2026-06-01,Standard Class,Corporate,United States,Phoenix,Illinois,East,Furniture,Bookcases,PROD-FUR-429,182.95,287.74,5,0
+CA-2025-1330,2026-03-28,Standard Class,Consumer,United States,Houston,Illinois,South,Office Supplies,Paper,PROD-OFF-430,345.87,484.04,9,5
+CA-2025-1331,2025-12-27,Standard Class,Corporate,United States,Phoenix,California,East,Office Supplies,Fasteners,PROD-OFF-431,495.28,690.99,8,5
+CA-2025-1332,2026-04-19,Same Day,Consumer,United States,New York City,Illinois,East,Office Supplies,Paper,PROD-OFF-432,489.69,750.84,5,5
+CA-2025-1333,2025-06-15,Second Class,Corporate,United States,Chicago,Illinois,East,Technology,Copiers,PROD-TEC-433,110.61,164.79,3,5
+CA-2025-1334,2026-02-07,Same Day,Home Office,United States,Los Angeles,Arizona,West,Technology,Accessories,PROD-TEC-434,155.67,195.4,4,15
+CA-2025-1335,2025-12-18,Same Day,Corporate,United States,New York City,Illinois,South,Office Supplies,Binders,PROD-OFF-435,132.94,213.45,6,0
+CA-2025-1336,2025-09-23,Standard Class,Home Office,United States,Chicago,Illinois,South,Technology,Machines,PROD-TEC-436,434.39,768.02,2,5
+CA-2025-1337,2025-10-11,Standard Class,Consumer,United States,Phoenix,Texas,Central,Furniture,Bookcases,PROD-FUR-437,297.92,482.83,8,0
+CA-2025-1338,2025-08-25,Second Class,Corporate,United States,New York City,California,West,Furniture,Chairs,PROD-FUR-438,470.43,626.75,4,0
+CA-2025-1339,2026-01-02,First Class,Consumer,United States,Chicago,New York,Central,Technology,Accessories,PROD-TEC-439,55.39,91.34,2,0
+CA-2025-1340,2025-06-19,Second Class,Consumer,United States,New York City,Arizona,Central,Office Supplies,Binders,PROD-OFF-440,122.29,186.87,8,0
+CA-2025-1341,2026-01-01,Standard Class,Home Office,United States,Los Angeles,Illinois,East,Technology,Machines,PROD-TEC-441,16.74,22.58,4,0
+CA-2025-1342,2025-12-04,Second Class,Home Office,United States,Chicago,Texas,Central,Office Supplies,Binders,PROD-OFF-442,339.71,424.19,1,5
+CA-2025-1343,2026-05-09,Second Class,Consumer,United States,New York City,Arizona,West,Technology,Phones,PROD-TEC-443,108.14,169.79,8,0
+CA-2025-1344,2025-07-06,Standard Class,Corporate,United States,Phoenix,California,Central,Technology,Phones,PROD-TEC-444,141.74,201.42,7,20
+CA-2025-1345,2025-12-01,Same Day,Corporate,United States,Los Angeles,Illinois,West,Technology,Machines,PROD-TEC-445,219.52,321.71,6,15
+CA-2025-1346,2025-03-29,Same Day,Home Office,United States,New York City,Illinois,West,Furniture,Chairs,PROD-FUR-446,299.21,432.23,4,10
+CA-2025-1347,2025-01-21,Second Class,Home Office,United States,Chicago,Arizona,Central,Office Supplies,Paper,PROD-OFF-447,137.52,178.18,9,20
+CA-2025-1348,2025-10-10,Same Day,Corporate,United States,New York City,Arizona,East,Technology,Copiers,PROD-TEC-448,151.7,210.24,4,15
+CA-2025-1349,2025-06-26,Second Class,Corporate,United States,New York City,New York,East,Technology,Accessories,PROD-TEC-449,437.59,742.53,4,20
+CA-2025-1350,2025-09-18,Second Class,Home Office,United States,New York City,Texas,Central,Furniture,Chairs,PROD-FUR-450,281.15,422.25,6,0
+CA-2025-1351,2026-01-07,First Class,Home Office,United States,Phoenix,New York,Central,Technology,Accessories,PROD-TEC-451,16.49,22.72,9,20
+CA-2025-1352,2026-02-18,Standard Class,Corporate,United States,Chicago,California,Central,Furniture,Tables,PROD-FUR-452,368.88,556.63,5,0
+CA-2025-1353,2025-01-11,Second Class,Home Office,United States,Chicago,Texas,South,Office Supplies,Paper,PROD-OFF-453,118.96,179.81,3,15
+CA-2025-1354,2025-07-14,Second Class,Home Office,United States,Los Angeles,New York,East,Technology,Phones,PROD-TEC-454,213.73,311.48,9,10
+CA-2025-1355,2025-08-27,Standard Class,Consumer,United States,Phoenix,Arizona,East,Office Supplies,Paper,PROD-OFF-455,277.88,429.39,3,20
+CA-2025-1356,2025-11-01,First Class,Home Office,United States,Los Angeles,New York,Central,Technology,Machines,PROD-TEC-456,349.12,462.15,8,20
+CA-2025-1357,2026-01-22,First Class,Consumer,United States,Phoenix,Illinois,South,Furniture,Chairs,PROD-FUR-457,309.55,530.69,1,10
+CA-2025-1358,2025-04-03,Standard Class,Corporate,United States,New York City,Illinois,South,Office Supplies,Art,PROD-OFF-458,368.35,596.12,9,0
+CA-2025-1359,2026-03-05,First Class,Home Office,United States,Chicago,Arizona,West,Technology,Accessories,PROD-TEC-459,270.47,407.42,9,10
+CA-2025-1360,2026-06-18,Second Class,Home Office,United States,New York City,Texas,Central,Office Supplies,Storage,PROD-OFF-460,17.6,24.09,8,5
+CA-2025-1361,2025-08-09,First Class,Corporate,United States,Phoenix,Illinois,Central,Furniture,Chairs,PROD-FUR-461,193.98,326.33,2,15
+CA-2025-1362,2025-05-02,First Class,Home Office,United States,Chicago,Illinois,West,Technology,Accessories,PROD-TEC-462,43.67,62.09,8,10
+CA-2025-1363,2026-05-19,First Class,Consumer,United States,Houston,New York,West,Office Supplies,Storage,PROD-OFF-463,12.6,21.2,9,20
+CA-2025-1364,2026-04-30,First Class,Consumer,United States,Chicago,Texas,East,Office Supplies,Fasteners,PROD-OFF-464,341.96,565.98,7,10
+CA-2025-1365,2026-05-05,Standard Class,Consumer,United States,Los Angeles,Texas,West,Technology,Machines,PROD-TEC-465,377.49,658.7,6,10
+CA-2025-1366,2025-02-09,Standard Class,Home Office,United States,Los Angeles,Texas,West,Furniture,Chairs,PROD-FUR-466,199.24,309.44,6,0
+CA-2025-1367,2025-11-14,Same Day,Consumer,United States,New York City,Illinois,West,Technology,Copiers,PROD-TEC-467,296.49,379.56,1,10
+CA-2025-1368,2026-01-13,Second Class,Consumer,United States,Chicago,Texas,Central,Technology,Accessories,PROD-TEC-468,269.07,456.22,1,20
+CA-2025-1369,2025-12-06,Same Day,Consumer,United States,Houston,New York,East,Office Supplies,Paper,PROD-OFF-469,390.63,661.33,7,15
+CA-2025-1370,2025-04-30,Second Class,Corporate,United States,New York City,Illinois,South,Technology,Accessories,PROD-TEC-470,213.47,369.96,6,20
+CA-2025-1371,2025-09-21,First Class,Consumer,United States,Phoenix,Illinois,South,Technology,Phones,PROD-TEC-471,498.12,844.44,7,5
+CA-2025-1372,2026-04-04,First Class,Consumer,United States,Chicago,Illinois,West,Technology,Phones,PROD-TEC-472,498.84,670.89,3,20
+CA-2025-1373,2026-03-09,Same Day,Home Office,United States,Chicago,California,Central,Technology,Machines,PROD-TEC-473,123.69,149.5,5,5
+CA-2025-1374,2025-03-09,Standard Class,Consumer,United States,Chicago,Illinois,West,Technology,Machines,PROD-TEC-474,433.57,672.97,5,0
+CA-2025-1375,2026-06-24,Standard Class,Home Office,United States,Chicago,Arizona,Central,Office Supplies,Fasteners,PROD-OFF-475,122.15,190.32,9,10
+CA-2025-1376,2025-01-14,First Class,Home Office,United States,Phoenix,California,Central,Furniture,Furnishings,PROD-FUR-476,328.26,552.35,2,15
+CA-2025-1377,2025-12-09,Standard Class,Home Office,United States,New York City,New York,West,Technology,Accessories,PROD-TEC-477,63.93,112.2,2,15
+CA-2025-1378,2026-02-10,Second Class,Corporate,United States,New York City,Arizona,West,Office Supplies,Binders,PROD-OFF-478,321.61,501.58,1,15
+CA-2025-1379,2025-02-12,First Class,Corporate,United States,Houston,Illinois,South,Office Supplies,Paper,PROD-OFF-479,345.84,420.19,4,10
+CA-2025-1380,2026-03-14,Second Class,Home Office,United States,Houston,Illinois,West,Office Supplies,Fasteners,PROD-OFF-480,290.58,396.99,2,15
+CA-2025-1381,2026-06-03,Same Day,Consumer,United States,Chicago,Illinois,East,Furniture,Furnishings,PROD-FUR-481,307.36,531.3,1,10
+CA-2025-1382,2026-04-10,First Class,Home Office,United States,New York City,Arizona,West,Technology,Machines,PROD-TEC-482,498.65,607.36,9,5
+CA-2025-1383,2025-03-05,Second Class,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Art,PROD-OFF-483,223.34,321.07,7,0
+CA-2025-1384,2025-10-03,Second Class,Corporate,United States,Los Angeles,Texas,Central,Technology,Accessories,PROD-TEC-484,213.95,278.32,2,10
+CA-2025-1385,2025-02-25,First Class,Home Office,United States,Phoenix,Texas,West,Furniture,Furnishings,PROD-FUR-485,492.8,640.45,3,15
+CA-2025-1386,2025-04-11,Second Class,Corporate,United States,Houston,California,South,Technology,Machines,PROD-TEC-486,183.31,253.24,1,15
+CA-2025-1387,2025-07-11,Second Class,Corporate,United States,Chicago,Texas,South,Office Supplies,Paper,PROD-OFF-487,356.27,559.46,7,20
+CA-2025-1388,2026-03-15,Second Class,Consumer,United States,Los Angeles,New York,West,Office Supplies,Storage,PROD-OFF-488,235.2,325.49,1,0
+CA-2025-1389,2025-09-28,First Class,Home Office,United States,Phoenix,New York,South,Furniture,Chairs,PROD-FUR-489,336.93,561.4,2,5
+CA-2025-1390,2025-07-20,First Class,Corporate,United States,Chicago,Texas,Central,Furniture,Furnishings,PROD-FUR-490,17.75,26.87,4,20
+CA-2025-1391,2025-12-11,Same Day,Corporate,United States,Phoenix,Arizona,East,Furniture,Bookcases,PROD-FUR-491,70.38,113.95,2,10
+CA-2025-1392,2025-09-27,First Class,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,PROD-FUR-492,288.19,446.0,6,5
+CA-2025-1393,2026-03-27,Same Day,Home Office,United States,Phoenix,California,South,Furniture,Chairs,PROD-FUR-493,74.51,127.62,6,20
+CA-2025-1394,2025-01-06,Second Class,Home Office,United States,Los Angeles,Illinois,South,Office Supplies,Fasteners,PROD-OFF-494,485.26,748.64,6,0
+CA-2025-1395,2025-11-04,Standard Class,Home Office,United States,New York City,Arizona,West,Technology,Machines,PROD-TEC-495,367.44,567.3,1,20
+CA-2025-1396,2025-10-03,Same Day,Consumer,United States,New York City,Texas,East,Technology,Copiers,PROD-TEC-496,378.32,595.51,6,5
+CA-2025-1397,2025-04-19,First Class,Corporate,United States,Chicago,California,Central,Furniture,Bookcases,PROD-FUR-497,154.04,206.76,1,10
+CA-2025-1398,2025-09-29,First Class,Corporate,United States,Los Angeles,New York,West,Technology,Phones,PROD-TEC-498,13.15,21.88,7,20
+CA-2025-1399,2025-06-20,Standard Class,Corporate,United States,Phoenix,New York,South,Technology,Phones,PROD-TEC-499,204.95,347.7,2,20
+CA-2025-1400,2026-04-16,Same Day,Corporate,United States,New York City,New York,South,Technology,Machines,PROD-TEC-500,239.48,398.53,9,20
+CA-2025-1401,2025-05-20,Standard Class,Consumer,United States,New York City,New York,South,Furniture,Tables,PROD-FUR-501,400.04,660.96,1,0
+CA-2025-1402,2025-05-19,First Class,Home Office,United States,New York City,New York,South,Technology,Accessories,PROD-TEC-502,309.28,408.22,1,10
+CA-2025-1403,2026-05-08,Same Day,Home Office,United States,New York City,New York,Central,Office Supplies,Fasteners,PROD-OFF-503,287.23,504.8,5,5
+CA-2025-1404,2025-09-30,Second Class,Home Office,United States,Houston,California,West,Technology,Copiers,PROD-TEC-504,24.75,43.98,8,10
+CA-2025-1405,2025-10-26,Same Day,Corporate,United States,Phoenix,Texas,West,Technology,Phones,PROD-TEC-505,258.1,363.98,3,0
+CA-2025-1406,2025-09-09,First Class,Corporate,United States,Chicago,Texas,East,Furniture,Chairs,PROD-FUR-506,315.12,565.35,4,5
+CA-2025-1407,2026-05-07,First Class,Consumer,United States,Houston,Arizona,East,Office Supplies,Paper,PROD-OFF-507,275.09,492.66,8,5
+CA-2025-1408,2025-03-14,Second Class,Corporate,United States,Chicago,Illinois,South,Technology,Accessories,PROD-TEC-508,130.86,194.01,3,5
+CA-2025-1409,2025-10-09,First Class,Corporate,United States,Los Angeles,Texas,South,Furniture,Bookcases,PROD-FUR-509,13.37,17.75,1,20
+CA-2025-1410,2026-01-13,Standard Class,Consumer,United States,Houston,New York,South,Technology,Machines,PROD-TEC-510,156.44,197.78,7,0
+CA-2025-1411,2025-09-07,Second Class,Home Office,United States,New York City,Arizona,South,Office Supplies,Fasteners,PROD-OFF-511,67.29,108.29,1,5
+CA-2025-1412,2025-10-30,First Class,Home Office,United States,Los Angeles,Arizona,South,Furniture,Tables,PROD-FUR-512,184.01,225.81,5,15
+CA-2025-1413,2025-05-18,Standard Class,Consumer,United States,Chicago,Arizona,South,Technology,Accessories,PROD-TEC-513,331.94,577.25,8,5
+CA-2025-1414,2025-07-16,Standard Class,Home Office,United States,Los Angeles,New York,South,Furniture,Tables,PROD-FUR-514,237.35,301.73,5,20
+CA-2025-1415,2026-03-14,Same Day,Corporate,United States,New York City,California,East,Technology,Accessories,PROD-TEC-515,94.54,145.67,7,20
+CA-2025-1416,2026-03-15,Second Class,Consumer,United States,New York City,New York,East,Technology,Accessories,PROD-TEC-516,66.69,81.12,7,0
+CA-2025-1417,2025-07-27,Same Day,Corporate,United States,New York City,New York,West,Technology,Accessories,PROD-TEC-517,449.89,741.02,6,10
+CA-2025-1418,2025-06-12,Second Class,Corporate,United States,Phoenix,Arizona,Central,Office Supplies,Fasteners,PROD-OFF-518,418.95,592.81,1,20
+CA-2025-1419,2026-02-11,Standard Class,Corporate,United States,Los Angeles,Arizona,West,Furniture,Chairs,PROD-FUR-519,110.08,133.2,5,20
+CA-2025-1420,2026-01-19,Same Day,Home Office,United States,Chicago,Illinois,Central,Office Supplies,Binders,PROD-OFF-520,485.86,746.92,2,20
+CA-2025-1421,2026-03-08,Same Day,Consumer,United States,Phoenix,New York,Central,Technology,Phones,PROD-TEC-521,183.79,281.27,3,5
+CA-2025-1422,2025-05-08,Second Class,Consumer,United States,Houston,Illinois,South,Technology,Accessories,PROD-TEC-522,227.62,375.58,1,5
+CA-2025-1423,2025-06-08,Standard Class,Home Office,United States,Phoenix,California,South,Office Supplies,Art,PROD-OFF-523,282.95,378.82,2,10
+CA-2025-1424,2026-04-03,Second Class,Corporate,United States,Los Angeles,Arizona,East,Technology,Machines,PROD-TEC-524,196.01,272.44,3,10
+CA-2025-1425,2025-12-16,Second Class,Corporate,United States,Phoenix,Texas,South,Furniture,Bookcases,PROD-FUR-525,413.99,533.16,2,20
+CA-2025-1426,2026-04-02,Standard Class,Corporate,United States,Houston,Illinois,Central,Furniture,Bookcases,PROD-FUR-526,133.07,227.09,6,5
+CA-2025-1427,2026-02-20,Second Class,Corporate,United States,Chicago,New York,South,Technology,Accessories,PROD-TEC-527,351.38,490.04,1,0
+CA-2025-1428,2026-06-14,Standard Class,Home Office,United States,New York City,New York,Central,Office Supplies,Binders,PROD-OFF-528,498.84,655.81,3,0
+CA-2025-1429,2025-08-25,Same Day,Home Office,United States,New York City,California,West,Office Supplies,Binders,PROD-OFF-529,160.54,245.29,5,0
+CA-2025-1430,2025-04-26,Same Day,Corporate,United States,Los Angeles,Illinois,Central,Office Supplies,Storage,PROD-OFF-530,404.43,498.03,7,10
+CA-2025-1431,2026-03-24,Second Class,Corporate,United States,Houston,New York,West,Technology,Phones,PROD-TEC-531,474.64,656.31,5,0
+CA-2025-1432,2025-09-19,Standard Class,Home Office,United States,Los Angeles,Texas,South,Office Supplies,Binders,PROD-OFF-532,14.75,25.29,1,10
+CA-2025-1433,2025-10-10,First Class,Home Office,United States,Houston,Texas,East,Furniture,Furnishings,PROD-FUR-533,13.07,16.17,7,10
+CA-2025-1434,2026-06-04,Standard Class,Corporate,United States,Houston,Texas,West,Office Supplies,Binders,PROD-OFF-534,118.67,165.01,1,15
+CA-2025-1435,2025-03-12,Standard Class,Consumer,United States,Phoenix,Arizona,Central,Furniture,Bookcases,PROD-FUR-535,50.93,67.57,5,5
+CA-2025-1436,2025-01-27,First Class,Consumer,United States,Houston,New York,West,Technology,Machines,PROD-TEC-536,89.07,137.45,4,20
+CA-2025-1437,2025-01-30,Standard Class,Home Office,United States,Los Angeles,Arizona,Central,Technology,Machines,PROD-TEC-537,210.14,337.87,2,20
+CA-2025-1438,2025-04-26,First Class,Home Office,United States,New York City,Texas,East,Office Supplies,Fasteners,PROD-OFF-538,444.18,771.72,4,15
+CA-2025-1439,2025-10-05,Second Class,Consumer,United States,Houston,California,East,Office Supplies,Paper,PROD-OFF-539,86.6,142.26,5,20
+CA-2025-1440,2026-03-17,Standard Class,Consumer,United States,Chicago,Arizona,South,Office Supplies,Storage,PROD-OFF-540,67.47,87.81,7,10
+CA-2025-1441,2025-05-24,Same Day,Corporate,United States,Phoenix,Illinois,South,Office Supplies,Binders,PROD-OFF-541,228.76,359.44,4,0
+CA-2025-1442,2025-08-13,First Class,Consumer,United States,Houston,Arizona,West,Furniture,Bookcases,PROD-FUR-542,58.78,91.81,7,5
+CA-2025-1443,2025-10-23,Second Class,Home Office,United States,Chicago,Arizona,Central,Technology,Accessories,PROD-TEC-543,260.7,322.38,8,10
+CA-2025-1444,2025-11-12,Second Class,Corporate,United States,Houston,Texas,East,Technology,Accessories,PROD-TEC-544,472.52,784.15,1,5
+CA-2025-1445,2025-10-30,Standard Class,Corporate,United States,Phoenix,New York,South,Furniture,Tables,PROD-FUR-545,168.67,269.31,8,5
+CA-2025-1446,2025-11-18,Same Day,Consumer,United States,Houston,California,East,Office Supplies,Binders,PROD-OFF-546,498.49,653.06,9,0
+CA-2025-1447,2025-11-17,First Class,Corporate,United States,Chicago,California,Central,Office Supplies,Storage,PROD-OFF-547,422.59,629.5,2,5
+CA-2025-1448,2025-12-06,Standard Class,Home Office,United States,Phoenix,California,West,Furniture,Tables,PROD-FUR-548,34.7,60.18,2,15
+CA-2025-1449,2025-11-28,Second Class,Corporate,United States,Houston,Arizona,South,Office Supplies,Fasteners,PROD-OFF-549,72.47,121.76,2,5
+CA-2025-1450,2025-06-13,Same Day,Corporate,United States,Chicago,Arizona,Central,Office Supplies,Fasteners,PROD-OFF-550,306.69,424.68,4,20
+CA-2025-1451,2025-12-03,Standard Class,Home Office,United States,Phoenix,Texas,East,Technology,Phones,PROD-TEC-551,169.65,216.59,4,15
+CA-2025-1452,2025-07-25,First Class,Home Office,United States,New York City,Arizona,Central,Furniture,Tables,PROD-FUR-552,165.95,288.18,2,10
+CA-2025-1453,2025-09-08,Same Day,Home Office,United States,Phoenix,New York,East,Technology,Phones,PROD-TEC-553,82.63,103.72,3,20
+CA-2025-1454,2025-03-13,First Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Storage,PROD-OFF-554,336.47,603.39,6,10
+CA-2025-1455,2026-06-12,First Class,Corporate,United States,Chicago,New York,Central,Technology,Copiers,PROD-TEC-555,227.61,345.77,6,5
+CA-2025-1456,2025-04-22,First Class,Consumer,United States,Chicago,Texas,Central,Office Supplies,Fasteners,PROD-OFF-556,207.32,332.44,1,20
+CA-2025-1457,2025-08-31,Second Class,Home Office,United States,Chicago,Arizona,Central,Furniture,Bookcases,PROD-FUR-557,353.3,583.68,4,15
+CA-2025-1458,2025-02-12,First Class,Corporate,United States,Los Angeles,Illinois,West,Furniture,Chairs,PROD-FUR-558,149.43,219.04,9,20
+CA-2025-1459,2025-07-26,First Class,Home Office,United States,Chicago,California,West,Technology,Copiers,PROD-TEC-559,52.16,64.38,9,10
+CA-2025-1460,2026-01-04,Second Class,Consumer,United States,Chicago,Illinois,South,Technology,Copiers,PROD-TEC-560,266.37,363.08,6,15
+CA-2025-1461,2026-02-25,Second Class,Consumer,United States,New York City,Arizona,East,Office Supplies,Binders,PROD-OFF-561,238.43,313.29,7,5
+CA-2025-1462,2026-04-25,Standard Class,Home Office,United States,Los Angeles,Illinois,South,Furniture,Tables,PROD-FUR-562,172.36,276.71,6,10
+CA-2025-1463,2026-01-02,Standard Class,Corporate,United States,New York City,Arizona,Central,Office Supplies,Storage,PROD-OFF-563,397.11,552.3,7,10
+CA-2025-1464,2025-04-03,Standard Class,Home Office,United States,New York City,Illinois,West,Furniture,Furnishings,PROD-FUR-564,332.47,598.0,3,15
+CA-2025-1465,2026-05-05,First Class,Corporate,United States,New York City,California,East,Office Supplies,Binders,PROD-OFF-565,226.6,360.05,5,0
+CA-2025-1466,2026-05-28,Same Day,Consumer,United States,Houston,California,South,Furniture,Tables,PROD-FUR-566,304.89,472.29,9,10
+CA-2025-1467,2026-04-02,Standard Class,Home Office,United States,Phoenix,Illinois,South,Furniture,Furnishings,PROD-FUR-567,38.7,59.27,6,5
+CA-2025-1468,2025-07-06,First Class,Consumer,United States,New York City,California,South,Office Supplies,Art,PROD-OFF-568,204.19,281.33,9,10
+CA-2025-1469,2025-04-18,Same Day,Corporate,United States,Houston,California,West,Technology,Phones,PROD-TEC-569,108.38,150.54,4,5
+CA-2025-1470,2025-03-31,Standard Class,Corporate,United States,Houston,Illinois,East,Furniture,Bookcases,PROD-FUR-570,342.46,477.34,7,5
+CA-2025-1471,2025-06-04,First Class,Consumer,United States,Phoenix,Texas,Central,Office Supplies,Fasteners,PROD-OFF-571,448.58,578.44,9,15
+CA-2025-1472,2025-06-21,Second Class,Corporate,United States,Chicago,Illinois,West,Furniture,Chairs,PROD-FUR-572,225.53,357.77,5,20
+CA-2025-1473,2025-07-15,Standard Class,Corporate,United States,Phoenix,California,South,Office Supplies,Fasteners,PROD-OFF-573,419.33,552.73,1,10
+CA-2025-1474,2025-05-24,First Class,Corporate,United States,Houston,Texas,Central,Technology,Accessories,PROD-TEC-574,228.24,275.88,9,10
+CA-2025-1475,2025-07-16,Second Class,Consumer,United States,Chicago,California,Central,Technology,Phones,PROD-TEC-575,20.3,34.34,9,20
+CA-2025-1476,2025-12-14,Standard Class,Home Office,United States,Chicago,Texas,Central,Technology,Accessories,PROD-TEC-576,226.5,294.0,7,10
+CA-2025-1477,2025-12-06,First Class,Home Office,United States,Phoenix,Illinois,East,Office Supplies,Fasteners,PROD-OFF-577,442.95,603.46,3,5
+CA-2025-1478,2025-11-23,First Class,Home Office,United States,Los Angeles,New York,West,Technology,Machines,PROD-TEC-578,440.24,675.65,3,20
+CA-2025-1479,2025-11-02,Same Day,Consumer,United States,New York City,Texas,West,Furniture,Chairs,PROD-FUR-579,171.89,267.04,1,0
+CA-2025-1480,2026-03-03,Standard Class,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Storage,PROD-OFF-580,185.49,332.71,4,20
+CA-2025-1481,2025-08-20,Same Day,Consumer,United States,Houston,New York,West,Office Supplies,Binders,PROD-OFF-581,37.15,51.96,9,0
+CA-2025-1482,2025-09-26,Standard Class,Consumer,United States,Houston,California,Central,Technology,Accessories,PROD-TEC-582,279.43,496.8,8,20
+CA-2025-1483,2026-05-10,Standard Class,Corporate,United States,New York City,Illinois,Central,Office Supplies,Paper,PROD-OFF-583,65.06,91.03,7,15
+CA-2025-1484,2026-03-04,Same Day,Consumer,United States,New York City,Illinois,Central,Technology,Copiers,PROD-TEC-584,346.77,616.2,5,20
+CA-2025-1485,2026-03-15,Same Day,Home Office,United States,New York City,Illinois,South,Technology,Accessories,PROD-TEC-585,18.17,23.93,7,15
+CA-2025-1486,2025-06-17,Same Day,Corporate,United States,Phoenix,Texas,West,Technology,Machines,PROD-TEC-586,479.03,830.68,1,10
+CA-2025-1487,2026-03-15,First Class,Corporate,United States,Phoenix,California,South,Office Supplies,Art,PROD-OFF-587,204.04,261.13,3,15
+CA-2025-1488,2025-12-18,Second Class,Consumer,United States,Chicago,California,Central,Furniture,Chairs,PROD-FUR-588,112.07,158.38,9,10
+CA-2025-1489,2026-04-11,Same Day,Home Office,United States,Chicago,California,Central,Technology,Phones,PROD-TEC-589,241.15,369.46,5,20
+CA-2025-1490,2026-06-17,Second Class,Consumer,United States,Phoenix,New York,Central,Office Supplies,Art,PROD-OFF-590,171.97,283.21,6,0
+CA-2025-1491,2026-06-21,Second Class,Corporate,United States,New York City,Illinois,East,Furniture,Tables,PROD-FUR-591,39.86,64.43,5,5
+CA-2025-1492,2026-05-18,Standard Class,Home Office,United States,New York City,Illinois,West,Furniture,Tables,PROD-FUR-592,21.73,33.7,6,10
+CA-2025-1493,2025-06-02,Standard Class,Consumer,United States,Houston,Illinois,West,Furniture,Furnishings,PROD-FUR-593,265.47,461.37,8,15
+CA-2025-1494,2026-06-12,Second Class,Home Office,United States,New York City,New York,West,Furniture,Furnishings,PROD-FUR-594,317.21,534.51,2,0
+CA-2025-1495,2026-06-30,Standard Class,Consumer,United States,Phoenix,Arizona,West,Technology,Phones,PROD-TEC-595,98.77,165.38,2,5
+CA-2025-1496,2025-10-01,Same Day,Consumer,United States,New York City,Texas,Central,Office Supplies,Storage,PROD-OFF-596,364.31,606.07,7,0
+CA-2025-1497,2025-03-10,First Class,Consumer,United States,Houston,California,Central,Furniture,Chairs,PROD-FUR-597,153.83,209.15,9,10
+CA-2025-1498,2025-01-08,First Class,Home Office,United States,New York City,Arizona,Central,Office Supplies,Fasteners,PROD-OFF-598,498.51,813.62,4,0
+CA-2025-1499,2026-05-23,Same Day,Consumer,United States,Houston,California,West,Technology,Phones,PROD-TEC-599,255.03,409.31,4,5
+CA-2025-1500,2025-07-25,Second Class,Home Office,United States,Phoenix,New York,Central,Technology,Copiers,PROD-TEC-600,403.84,504.89,8,20
